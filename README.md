@@ -218,7 +218,7 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Nandu Panakanti**
-📧 Mail: panakanti@gmail.com
+📧 Mail: panakantinandu@gmail.com
 🌐 Github: https://github.com/panakantinandu
 💬 “Study hard, stay consistent, and help others learn — that’s what StudyMate stands for.” 🎯
 
