@@ -1,10 +1,3 @@
-Perfect 👌 — here’s an upgraded version of your `README.md` that includes a **visual system architecture diagram** made entirely in Markdown (no external images required).
-
-This will make your GitHub page look much more professional and help explain your project logic at a glance.
-
----
-
-````markdown
 # 🎓 StudyMate – Peer Learning & Scheduling Platform  
 
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?logo=php&logoColor=white)
