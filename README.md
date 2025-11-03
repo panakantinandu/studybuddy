@@ -206,7 +206,6 @@ After each completed session:
 ## 🤝 Contributing
 
 Contributions are welcome!
-Fork this repository, create a new branch, and open a pull request.
 
 ---
 
